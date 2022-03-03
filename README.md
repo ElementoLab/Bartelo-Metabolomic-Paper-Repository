@@ -7,6 +7,9 @@ Contains created dataframes and text files which we import in our notebooks to c
 # Analysis of GWAS.ipynb
 Contains the analysis after the GWAS was performed.
 
+# Data Mining To Find Final Pre-diabetic Cohort.ipynb
+Contains all the data mining, manipulation, and patient selection for the final cohort to be used in the study.
+
 # Demographics Analysis Of Progressors Vs Non-progressors and All Seven Pre-diabetic Groups.ipynb
 Contains the age, sex, ethnicity, number, and statistical testing for these variables for progressors vs. non-progressors and pre-diabetic unsupervised clusters.
 
@@ -18,9 +21,6 @@ Contains the actual clustering and numerous statistical analyses for the metabol
 
 # Random Assignment of Pre-diabetics To Seven Groups.ipynb
 Contains the method for randomly assigning patients to 7 groups and all statistical analyses conducted for these groups.
-
-# Shows Group Of 5431 Pre-diabetic Patients Classified And 190 Patients With Diabetes At Recruitment.ipynb
-Contains the data mining for the selection of pre-diabetics to be used in the study.
 
 # Supervised Machine Learning Predicting Pre-diabetic Group Identity.ipynb
 Contains all analyses for the supervised model created to predict a pre-diabetic assignment into their assigned group from the unsupervised clustering using the metabolomics data.
