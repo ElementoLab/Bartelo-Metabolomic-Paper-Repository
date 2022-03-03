@@ -4,7 +4,8 @@ Contains notebooks with written step-by-step commentary and most files needed to
 WARNING: SOME FILES WERE TOO LARGE TO BE INCLUDED ON GITHUB (all_features_prediabetics_only_9754_patients.csv, merged_prediabetes_information, and pval.total_with_chr2.csv.gz) AND WILL HAVE TO BE CREATED USING THE UKBB DATA DIRECTLY (using the UK Biobank Data Mining file code) OR REQUESTED FROM THE ELEMENTOLAB BY EMAILING NIB4003@MED.CORNELL.EDU!!! - THIS INCLUDES THE GENETIC ANALYSIS RESULTS
 
 ## Data Files
-Contains created dataframes and text files which we import in our notebooks to create our final cohorts and conduct analyses using these patients. 
+All dataframes and text files which we import in our notebooks to create our final cohorts and conduct analyses using these patients can be requested as we are not allowed
+to distribute UKBB data. 
 
 ## Jupyter Notebooks:
 
