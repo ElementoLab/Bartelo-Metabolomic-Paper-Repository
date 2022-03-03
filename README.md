@@ -1,5 +1,5 @@
 # Bartelo-Metabolomic-Paper-Repository
-Contains notebooks and files needed to reproduce the findings from the publication. WARNING: SOME FILES WERE TOO LARGE TO BE INCLUDED ON GITHUB AND WILL HAVE TO BE CREATED USING THE UKBB DATA DIRECTLY OR REQUESTED FROM THE ELEMENTOLAB BY EMAILING NIB4003@MED.CORNELL.EDU!!! - THIS INCLUDES THE GENETIC ANALYSIS RESULTS
+Contains notebooks with written step-by-step commentary and most files needed to reproduce the findings from the publication. WARNING: SOME FILES WERE TOO LARGE TO BE INCLUDED ON GITHUB AND WILL HAVE TO BE CREATED USING THE UKBB DATA DIRECTLY OR REQUESTED FROM THE ELEMENTOLAB BY EMAILING NIB4003@MED.CORNELL.EDU!!! - THIS INCLUDES THE GENETIC ANALYSIS RESULTS
 
 ## Data Files
 Contains created dataframes and text files which we import in our notebooks to create our final cohorts and conduct analyses using these patients. 
