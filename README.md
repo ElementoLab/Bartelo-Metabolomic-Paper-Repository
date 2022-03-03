@@ -4,6 +4,8 @@ Contains notebooks and files needed to reproduce the findings from the publicati
 ## Data Files
 Contains created dataframes and text files which we import in our notebooks to create our final cohorts and conduct analyses using these patients. 
 
+## Jupyter Notebooks:
+
 ### Analysis of GWAS.ipynb
 Contains the analysis after the GWAS was performed.
 
