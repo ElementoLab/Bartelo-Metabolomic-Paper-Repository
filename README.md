@@ -1,5 +1,5 @@
 # Bartelo-Metabolomic-Paper-Repository
-Contains notebooks with written step-by-step commentary. DATA IS NOT ALLOWED TO BE SHARED SO FILES NEEDED TO REPRODUCE FINDINGS ARE NOT INCLUDED! 
+Contains notebooks with written step-by-step commentary. DATA IS NOT ALLOWED TO BE SHARED SO FILES NEEDED TO REPRODUCE FINDINGS ARE NOT INCLUDED! Look at the UK Biobank Data Mining for code to create the data files needed for the analysis.
 
 ## Data Files
 All dataframes and text files which we import in our notebooks to create our final cohorts and conduct analyses using these patients can be requested as we are not allowed
