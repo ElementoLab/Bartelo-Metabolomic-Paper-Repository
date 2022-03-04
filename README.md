@@ -5,6 +5,9 @@ Contains notebooks with written step-by-step commentary. DATA IS NOT ALLOWED TO 
 All dataframes and text files which we import in our notebooks to create our final cohorts and conduct analyses using these patients can be requested as we are not allowed
 to distribute UKBB data. 
 
+## Genetic Analysis Files
+All code used to conduct the GWAS for the seven pre-diabetic groups. The output is analyzed further in the jupyter notebook below titled "Analysis of GWAS.ipynb"
+
 ## Jupyter Notebooks:
 
 ### Analysis of GWAS.ipynb
